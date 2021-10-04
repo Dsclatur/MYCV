@@ -1,5 +1,5 @@
     body{
-        background-color: #EBFFFA;
+        background-color: #FAEEE0;
       }
       hr{
         background-color: white;
@@ -9,3 +9,14 @@
         border-color: red;
         width: 70%;
       }
+
+      h1{
+          color: #082032;
+      }
+      h2{
+          color: #082032;
+      }
+      h3{
+        color: #082032;
+      }
+
